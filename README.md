@@ -1,6 +1,6 @@
 # Unsupervised_Learning_with_Crypto
 
-This application analyses cryptocurrency pricing over multiple time periods using the K-means algorithm and Prinicpal Component Analysis (PCA).
+This application analyses cryptocurrency pricing over multiple time periods using the K-means algorithm and Principal Component Analysis (PCA).
 
 ---
 
